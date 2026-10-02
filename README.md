@@ -203,19 +203,21 @@ Currently shipping two EdTech SaaS products from Cairo and learning **Swift** fo
 
 </div>
 
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Dahyuel&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
 ---
 
 ## 📊 Contribution Activity
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dahyuel&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=70A5FD&line=70A5FD&point=FF6B6B&area=true&area_color=70A5FD)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dahyuel&theme=tokyonight" width="100%"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dahyuel&theme=tokyonight" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dahyuel&theme=tokyonight" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Dahyuel&theme=tokyonight&utcOffset=2" width="32%"/>
 
 </div>
 
