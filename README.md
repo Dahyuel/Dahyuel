@@ -184,7 +184,7 @@ I build full-stack web applications and AI-powered products — from cinematic m
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Dahyuel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=70A5FD&icon_color=70A5FD"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Dahyuel&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70A5FD&icon_color=70A5FD&count_private=true&show=reviews,prs_merged,prs_merged_percentage"/>
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dahyuel&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70A5FD&langs_count=8"/>
 
 </div>
@@ -198,6 +198,30 @@ I build full-stack web applications and AI-powered products — from cinematic m
 <div align="center">
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Dahyuel&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 📊 Contribution Activity
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dahyuel&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=70A5FD&line=70A5FD&point=FF6B6B&area=true&area_color=70A5FD)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dahyuel/Dahyuel/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dahyuel/Dahyuel/output/github-contribution-grid-snake.svg"/>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Dahyuel/Dahyuel/output/github-contribution-grid-snake-dark.svg"/>
+</picture>
 
 </div>
 
