@@ -2,25 +2,33 @@
 
 ![Header](https://raw.githubusercontent.com/Dahyuel/Dahyuel/main/assets/header.png)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Ahmed+Dahy+%F0%9F%91%8B;Full-Stack+%26+AI+Engineer;Building+SaaS+Products+%7C+Cairo+%F0%9F%87%AA%F0%9F%87%AC;Currently+learning+Swift)](https://github.com/Dahyuel)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Ahmed+Dahy+%F0%9F%91%8B;Full-Stack+%26+AI+Engineer+%7C+Cairo+%F0%9F%87%AA%F0%9F%87%AC;I+build+RAG+pipelines+%26+SaaS+products;Turning+ideas+into+shipped+products)](https://github.com/Dahyuel)
+
+<br>
+
+![Open To Work](https://img.shields.io/badge/Open%20To%20Work-✅-2ea44f?style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=Dahyuel&color=70A5FD&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
+---
+
+## 👨‍💻 About Me
+
+<img src="https://raw.githubusercontent.com/Dahyuel/Dahyuel/main/assets/header.gif" width="320" align="right" style="border-radius:12px; margin-left:20px"/>
+
+**Full-Stack & AI Engineer** specializing in RAG pipelines, distributed backends, and AI-native SaaS products. I don't just integrate AI — I build the full stack around it: vector databases, LLM proxies, PII-safe inference, and streaming interfaces.
+
+Currently shipping two EdTech SaaS products from Cairo and learning **Swift** for iOS.
+
 <br>
 
-## 👨‍💻 About
-
-<img src="https://raw.githubusercontent.com/Dahyuel/Dahyuel/main/assets/header.gif" width="340" align="right" style="border-radius:12px; margin-left:20px"/>
-
-I build full-stack web applications and AI-powered products — from cinematic marketing sites to multi-role enterprise platforms. Most of my work sits at the intersection of **React/TypeScript** frontends, **Node/Python** backends, and real AI integration (RAG pipelines, LLM proxies, PII-safe chat). Based in **Egypt**, currently building SaaS products and learning **Swift**.
-
-<br>
-
-🔭 &nbsp;Working on: **AI-native SaaS products**
-🌱 &nbsp;Currently learning: **Swift** (iOS)
-📍 &nbsp;Cairo, Egypt
-📬 &nbsp;[ahmed.ayman.dahy@gmail.com](mailto:ahmed.ayman.dahy@gmail.com)
-💼 &nbsp;[LinkedIn](https://www.linkedin.com/in/ahmed-dahy-5996b7187/)
+- 🔭 &nbsp;Building: **Nudra** (EdTech SaaS) & **Campus LMS**
+- 🤖 &nbsp;Focused on: **RAG · LLM Infra · Distributed Systems**
+- 🌱 &nbsp;Learning: **Swift / iOS Development**
+- 📍 &nbsp;Cairo, Egypt
+- 📬 &nbsp;[ahmed.ayman.dahy@gmail.com](mailto:ahmed.ayman.dahy@gmail.com)
+- 💼 &nbsp;[LinkedIn](https://www.linkedin.com/in/ahmed-dahy-5996b7187/)
 
 <br clear="right"/>
 
@@ -110,9 +118,9 @@ I build full-stack web applications and AI-powered products — from cinematic m
       <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square"/>
       <img src="https://img.shields.io/badge/Type-SaaS-70A5FD?style=flat-square"/>
       <br><br>
-      <b>EdTech SaaS — Egyptian secondary students</b>
+      <b>EdTech SaaS for Egyptian secondary students</b>
       <br><br>
-      RAG AI tutor grounded in lesson transcripts, HLS video pipeline (upload → transcode → transcribe → embed), Sanaweya exam simulator, and full Instructor Studio.
+      Full HLS video pipeline: upload → FFmpeg transcode → Whisper transcribe → embed into pgvector. RAG AI tutor grounded in lesson content with citation support. Sanaweya exam simulator with past-paper bank.
       <br><br>
       <code>React 19</code> <code>TypeScript</code> <code>PostgreSQL+pgvector</code> <code>Redis</code> <code>MinIO</code> <code>FastAPI</code> <code>DeepSeek</code>
     </td>
@@ -123,7 +131,7 @@ I build full-stack web applications and AI-powered products — from cinematic m
       <br><br>
       <b>Enterprise Academic Platform — Fastify + RAG</b>
       <br><br>
-      Vite + Fastify monorepo. JWT token rotation + family revocation. SSE-streaming AI tutor with RAG citations. RabbitMQ background jobs, MinIO storage, 8 versioned SQL migrations.
+      JWT token rotation with family revocation. SSE-streaming AI tutor with Qdrant RAG citations. RabbitMQ async jobs, MinIO object storage, 8 versioned SQL migrations, full Docker Compose stack.
       <br><br>
       <code>Fastify 5</code> <code>PostgreSQL</code> <code>Redis</code> <code>RabbitMQ</code> <code>Qdrant</code> <code>Docker</code>
     </td>
@@ -136,7 +144,7 @@ I build full-stack web applications and AI-powered products — from cinematic m
       <br><br>
       <b>Privacy-First AI Chat</b>
       <br><br>
-      Detects and anonymizes PII before it reaches any LLM. Named-entity placeholder tokens, round-trip deanonymization client-side. Presidio + spaCy pipeline, WebGL glassmorphism UI.
+      Intercepts and anonymizes PII before any LLM call. Named-entity placeholder tokens with round-trip client-side deanonymization. Presidio + spaCy NER pipeline. WebGL glassmorphism UI built in Three.js.
       <br><br>
       <code>Python</code> <code>Flask</code> <code>Presidio</code> <code>spaCy</code> <code>Gemini</code> <code>Three.js</code>
     </td>
@@ -145,9 +153,9 @@ I build full-stack web applications and AI-powered products — from cinematic m
       <img src="https://img.shields.io/badge/Status-Complete-blue?style=flat-square"/>
       <img src="https://img.shields.io/badge/Type-Full--Stack-F7931E?style=flat-square"/>
       <br><br>
-      <b>University Career Fair — End-to-End</b>
+      <b>University Career Fair Platform</b>
       <br><br>
-      11+ role dashboards (attendee → super admin). SECURITY DEFINER RPC, RLS throughout, QR check-in. Docker multi-stage → Nginx non-root runtime. GHCR CI/CD + security headers.
+      11+ role dashboards from attendee to super-admin. SECURITY DEFINER RPC with RLS throughout. QR check-in system. Docker multi-stage build → Nginx non-root runtime. GHCR CI/CD with security headers.
       <br><br>
       <code>React 18</code> <code>TypeScript</code> <code>Supabase</code> <code>Docker</code> <code>Nginx</code>
     </td>
@@ -158,9 +166,9 @@ I build full-stack web applications and AI-powered products — from cinematic m
       <img src="https://img.shields.io/badge/Status-Complete-blue?style=flat-square"/>
       <img src="https://img.shields.io/badge/Type-ML-88CE02?style=flat-square"/>
       <br><br>
-      <b>Smartphone Price Classifier — ML</b>
+      <b>Smartphone Price Classifier</b>
       <br><br>
-      4 tuned ML models benchmarked with full EDA. Random Forest & SVM hitting ~89% accuracy. GridSearchCV tuning, reusable preprocessing pipeline, dual GUI (chat-style + form).
+      4 tuned ML models with full EDA. Random Forest & SVM achieving ~89% accuracy. GridSearchCV hyperparameter tuning, reusable preprocessing pipeline, dual GUI — chat-style and form-based.
       <br><br>
       <code>Python</code> <code>scikit-learn</code> <code>pandas</code> <code>NumPy</code> <code>CustomTkinter</code>
     </td>
@@ -171,7 +179,7 @@ I build full-stack web applications and AI-powered products — from cinematic m
       <br><br>
       <b>Biometric System — PCA vs LBP</b>
       <br><br>
-      PCA (Eigenfaces) vs LBP face recognition with full biometric evaluation suite (EER, AUC, d-prime, Rank-1). Live webcam enrollment, Flask dashboard. No deep-learning dependency.
+      PCA (Eigenfaces) vs LBP face recognition with full biometric evaluation suite: EER, AUC, d-prime, Rank-1. Live webcam enrollment, Flask dashboard. Zero deep-learning dependencies.
       <br><br>
       <code>Python</code> <code>OpenCV</code> <code>Flask</code> <code>scikit-learn</code> <code>MediaPipe</code>
     </td>
@@ -184,7 +192,7 @@ I build full-stack web applications and AI-powered products — from cinematic m
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Dahyuel&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70A5FD&icon_color=70A5FD&count_private=true&show=reviews,prs_merged,prs_merged_percentage"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Dahyuel&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70A5FD&icon_color=70A5FD&count_private=true"/>
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dahyuel&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70A5FD&langs_count=8"/>
 
 </div>
@@ -231,10 +239,13 @@ I build full-stack web applications and AI-powered products — from cinematic m
 
 ```typescript
 const ahmed = {
-  building:  ["AI-native SaaS products", "Distributed backend systems"],
+  role:      "Full-Stack & AI Engineer",
+  building:  ["Nudra — EdTech SaaS", "Campus LMS — Enterprise Platform"],
   learning:  ["Swift", "iOS Development"],
   exploring: ["Agentic AI workflows", "MCP integrations"],
+  stack:     ["RAG pipelines", "LLM infra", "Distributed systems"],
   location:  "Cairo, Egypt 🇪🇬",
+  openTo:    ["Full-time roles", "Freelance", "Collaborations"],
 };
 ```
 
